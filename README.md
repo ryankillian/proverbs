@@ -4,6 +4,10 @@
 
 This static site is dedicated to exploring proverbs from the 16th and 17th centuries using state-of-the-art language models.
 
+## Current Status
+
+The project is in its early stages. A production version is live on Vercel to test dynamic image capabilities. Check it out [here](https://proverbs-psi.vercel.app/).
+
 ## Technology
 
 - **SvelteKit**: For building the static site.
@@ -14,10 +18,6 @@ This static site is dedicated to exploring proverbs from the 16th and 17th centu
 
 - **Historical Proverbs**: Features proverbs sourced from Morris Palmer Tilley's "A Dictionary of the Proverbs in England in the Sixteenth and Seventeenth Centuries".
 - **Modern Analysis**: Utilizes advanced language models to analyze and provide insights on these age-old sayings.
-
-## Current Status
-
-The project is in its early stages. A production version is live on Vercel to test dynamic image capabilities. Check it out [here](https://your-vercel-site-link).
 
 ## Source and Licensing
 
