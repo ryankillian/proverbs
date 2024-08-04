@@ -25,3 +25,12 @@ notes.txt
 plan.txt
 .prettierignore
 .prettierrc
+
+"src/routes/blog/[slug]/+page.ts"
+"src/routes/blog/[slug]/+page.svelte"
+src/routes/blog/2.md
+src/routes/blog/1.md
+src/routes/blog/+page.svelte
+src/routes/blog/+page.ts
+src/routes/api/posts/+server.ts
+src/routes/blog/
