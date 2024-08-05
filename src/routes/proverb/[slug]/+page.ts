@@ -1,25 +1,17 @@
-import type { Proverb, ProverbData } from '$lib/types.js';
-// import proverbData from '$lib/ocr/B536.json';
+import type { Proverb } from '$lib/types.js';
 
 export const load = async ({ params, fetch }) => {
 	const proverb: Proverb = await import(`../../../lib/proverbs/${params.slug}.md`);
 	const metadata = proverb.metadata;
 	const content = proverb.default;
 
-	const ocrModules = import.meta.glob('../../../lib/ocr/*.json', {
-		eager: true
-	}) as Record<string, { default: any }>;
-
-	let proverbData: ProverbData;
-	for (const [_path, module] of Object.entries(ocrModules)) {
-		if (_path.includes(metadata.proverb_id)) {
-			proverbData = module.default;
-			break;
-		}
-	}
+	// TODO: Revist ProverbDetails JSON functionality
+	// const ocrModules = import.meta.glob('../../../lib/ocr/*.json', {
+	// 	eager: true
+	// }) as Record<string, { default: any }>;
 
 	// Dynamic images which work for production builds
-	let imageSrc = '';
+	let imageSrcs: string[] = [];
 
 	// Eagerly import all images
 	const imageModules = import.meta.glob('../../../lib/images/*.png', {
@@ -29,18 +21,31 @@ export const load = async ({ params, fetch }) => {
 		}
 	}) as Record<string, { default: string }>;
 
-	// Find the correct image based on proverb_id
+	// First, try to find an image without a suffix
+	let foundMainImage = false;
 	for (const [_path, module] of Object.entries(imageModules)) {
-		if (_path.includes(metadata.proverb_id)) {
-			imageSrc = module.default;
+		if (_path.includes(`${metadata.proverb_id}.png`)) {
+			imageSrcs.push(module.default);
+			foundMainImage = true;
 			break;
+		}
+	}
+
+	// If no main image found, check for 'a' and 'b' suffixes
+	if (!foundMainImage) {
+		for (const suffix of ['a', 'b']) {
+			for (const [_path, module] of Object.entries(imageModules)) {
+				if (_path.includes(`${metadata.proverb_id}${suffix}.png`)) {
+					imageSrcs.push(module.default);
+					break;
+				}
+			}
 		}
 	}
 
 	return {
 		metadata,
 		content,
-		proverbData,
-		imageSrc
+		imageSrcs
 	};
 };

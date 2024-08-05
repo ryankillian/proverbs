@@ -1,0 +1,108 @@
+{
+	"proverb_id": "B551",
+	"proverb_text": "It is too late to spare when the Borrom is bare",
+	"explanation": null,
+	"references": [
+		{
+			"year": "1539",
+			"author": "Tav.",
+			"work": "f. 32",
+			"location": "It is to late sparinge at the botome.",
+			"text": null
+		},
+		{
+			"year": "1555",
+			"author": "Songs and Bal. Philip and Mary",
+			"work": "10, p. 30",
+			"location": "To latte they spare, when all ys goone.",
+			"text": null
+		},
+		{
+			"year": "1559",
+			"author": "Cooper",
+			"work": "s.v. Parsimonia",
+			"location": "Sera parsimonia in fundo, It is to late to spare when the barell is at the bottome.",
+			"text": null
+		},
+		{
+			"year": "1581-90",
+			"author": null,
+			"work": "Timon IV v, p. 71",
+			"location": "(When all is spent).",
+			"text": null
+		},
+		{
+			"year": "c1584",
+			"author": "G. Harvey",
+			"work": "Marginalia, p. 102",
+			"location": "Too late sparing at the bottum; where nothing left, but the least, and last.",
+			"text": null
+		},
+		{
+			"year": "1594",
+			"author": "Bacon",
+			"work": "no. 1003",
+			"location": "Thrift is too late [when you come] to the bottom of your stock.",
+			"text": null
+		},
+		{
+			"year": "1598",
+			"author": "Barckley",
+			"work": "Fel. Man V, p. 628",
+			"location": "(when all is out).",
+			"text": null
+		},
+		{
+			"year": "1616",
+			"author": "Withals",
+			"work": "p. 581",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1639",
+			"author": "CL.",
+			"work": "p. 262",
+			"location": "Too late to spare when all is spent.",
+			"text": null
+		},
+		{
+			"year": "c1640",
+			"author": "W.S. Countrym. Commonw.",
+			"work": "p. 5",
+			"location": "It is too late for a prodigal to spare at the bottom.",
+			"text": null
+		},
+		{
+			"year": "1664",
+			"author": "Cop.",
+			"work": "p. 201",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1670",
+			"author": "Ray",
+			"work": "p. 144",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1672",
+			"author": "Wak.",
+			"work": "63, p. 48",
+			"location": null,
+			"text": null
+		}
+	],
+	"similar_proverbs": [
+		{
+			"number": "A211",
+			"text": "When all is consumed repentance comes too late"
+		},
+		{
+			"number": "B674",
+			"text": "Better spare at the brim than at the bottom"
+		}
+	]
+}

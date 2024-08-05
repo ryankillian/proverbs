@@ -34,3 +34,5 @@ src/routes/blog/+page.svelte
 src/routes/blog/+page.ts
 src/routes/api/posts/+server.ts
 src/routes/blog/
+
+/prompts

@@ -1,0 +1,111 @@
+{
+	"proverb_id": "B561",
+	"proverb_text": "A Bow long bent at last waxes weak",
+	"explanation": null,
+	"references": [
+		{
+			"year": "1541",
+			"author": "Coverdale",
+			"work": "Chr. State Matr. XIX",
+			"location": "f. 62",
+			"text": "The bowe will breake yf it be to sore bent."
+		},
+		{
+			"year": "1562",
+			"author": "Hey.",
+			"work": "Dial. I xi",
+			"location": "p. 28",
+			"text": "(at length must ware weake)."
+		},
+		{
+			"year": "c1573",
+			"author": "I. Whitney",
+			"work": "Sweet Nosegay, s. C2",
+			"location": null,
+			"text": "The bow that euer standeth bent too far wyll neuer cast The mind which euermore is slack, doth badly proue atlast."
+		},
+		{
+			"year": "1578",
+			"author": "Lyly",
+			"work": "Euph. Anat. Wit",
+			"location": "p. 251",
+			"text": "Is it not true which Seneca reporteth, that as to much bendinge breaketh the bowe, so to much remission spoyleth the minde?"
+		},
+		{
+			"year": "1583",
+			"author": "Melbancke",
+			"work": "Philot., s. R4",
+			"location": null,
+			"text": "Like a bowe longe bent that in proces weakens."
+		},
+		{
+			"year": "1611",
+			"author": "Grut.",
+			"work": "no. 1",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1614",
+			"author": "Cam.",
+			"work": "p. 302",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1616",
+			"author": "Dr.",
+			"work": "s.v. Recreation, no. 1825",
+			"location": null,
+			"text": "A Bow too much bent will be broken."
+		},
+		{
+			"year": "1639",
+			"author": "CL.",
+			"work": "p. 213",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1659",
+			"author": "How.",
+			"work": "Eng. Prov.",
+			"location": "p. 7",
+			"text": null
+		},
+		{
+			"year": "1664",
+			"author": "Cod.",
+			"work": "p. 183",
+			"location": null,
+			"text": "(bent waxeth weak)."
+		},
+		{
+			"year": "1670",
+			"author": "Ray",
+			"work": "p. 65",
+			"location": null,
+			"text": null
+		},
+		{
+			"year": "1721",
+			"author": "Kel.",
+			"work": "p. 33",
+			"location": null,
+			"text": "A Bow o’er bent will weaken."
+		},
+		{
+			"year": "1732",
+			"author": "Ful.",
+			"work": "no. 1013",
+			"location": null,
+			"text": "Bows too long bent, grow weak."
+		}
+	],
+	"similar_proverbs": [
+		{
+			"number": "W842",
+			"text": "All work and no play makes Jack a dull boy."
+		}
+	]
+}

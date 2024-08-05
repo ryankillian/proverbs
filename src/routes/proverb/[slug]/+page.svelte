@@ -1,8 +1,7 @@
 <script lang="ts">
-	import ProverbDetails from '$lib/components/ProverbDetails.svelte';
 	export let data;
 
-	let { content, metadata, proverbData, imageSrc } = data;
+	let { content, metadata, imageSrcs } = data;
 </script>
 
 <article>
@@ -10,10 +9,9 @@
 		<h2>{metadata.proverb_text}</h2>
 	</header>
 	<section>
-		{#if imageSrc}
+		{#each imageSrcs as imageSrc}
 			<enhanced:img src={imageSrc} alt={metadata.proverb_text} />
-		{/if}
-		<ProverbDetails proverb={proverbData} />
+		{/each}
 		<svelte:component this={content} />
 	</section>
 </article>

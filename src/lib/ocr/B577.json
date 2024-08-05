@@ -1,0 +1,31 @@
+{
+	"proverb_id": "B577",
+	"proverb_text": "The least Boy always carries the greatest fiddle",
+	"explanation": null,
+	"references": [
+		{
+			"year": "1670",
+			"author": "Ray",
+			"work": "",
+			"location": "p. 112",
+			"text": "All lay load upon those that are the least able to bear it. For they that are least able to bear, are least to resist the imposition of the burden."
+		},
+		{
+			"year": "1732",
+			"author": "Ful.",
+			"work": "no. 4629",
+			"location": null,
+			"text": "The least Boy carries the biggest Fiddle."
+		}
+	],
+	"similar_proverbs": [
+		{
+			"number": "A158",
+			"text": "All lay load on a willing horse"
+		},
+		{
+			"number": "F414",
+			"text": "Folk call on the horse that will carry always."
+		}
+	]
+}
