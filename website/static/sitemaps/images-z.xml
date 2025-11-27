@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tilleyproverbs.com/proverbs/Z1</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/proverbs/Z/Z1_1.webp</image:loc>
+      <image:caption>A scan of the entry for the proverb "Banbury¹ ZEAL (veal), cheese, and cakes" from Morris P. Tilley's historical dictionary.</image:caption>
+      <image:title>Banbury¹ ZEAL (veal), cheese, and cakes</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/proverbs/Z2</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/proverbs/Z/Z2_1.webp</image:loc>
+      <image:caption>A scan of the entry for the proverb "ZEAL has wings (will fly)" from Morris P. Tilley's historical dictionary.</image:caption>
+      <image:title>ZEAL has wings (will fly)</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/proverbs/Z3</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/proverbs/Z/Z3_1.webp</image:loc>
+      <image:caption>A scan of the entry for the proverb "ZEAL without knowledge is the sister of folly" from Morris P. Tilley's historical dictionary.</image:caption>
+      <image:title>ZEAL without knowledge is the sister of folly</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+</urlset>

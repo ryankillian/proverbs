@@ -1,0 +1,1035 @@
+{
+	"A1": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A1",
+				"proverb_text": "Make ABB or warp of the business as soon as you can",
+				"literal_meaning": "The proverb instructs one to take action swiftly and decisively, either by finishing a task completely ('make abb') or by abandoning or diverting it ('make warp').",
+				"metaphorical_meanings": [
+					{
+						"theme": "Prompt Decision-making",
+						"description": "This expression urges the importance of acting promptly when faced with a situation. Whether one concludes or redirects the effort, the key message is to avoid indecision and move forward with resolve."
+					},
+					{
+						"theme": "Flexibility in Outcome",
+						"description": "It metaphorically underscores the necessity of adaptability in dealing with challenges—either achieve your intended outcome or change course pragmatically if that path proves unworkable."
+					},
+					{
+						"theme": "Avoiding Procrastination",
+						"description": "The proverb implicitly warns against delay and dithering, advocating instead for a bias toward resolution—whether that resolution is success or abandonment."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Historical Symbolism",
+						"description": "The terms 'abb' and 'warp' are derived from weaving, where 'abb' (or 'abb thread') may refer to the end or waste thread of a cloth, while 'warp' refers to the vertical threads in a loom. This weaving imagery symbolizes the practical necessity of completing or redirecting a task based on real conditions."
+					},
+					{
+						"theme": "Cultural Work Ethic",
+						"description": "The proverb reflects a traditional cultural ethos emphasizing industriousness and decisiveness. In agrarian and craft-based societies, delays could have real material consequences, thus quick resolution was a moral as well as practical imperative."
+					},
+					{
+						"theme": "Psychological Dynamics",
+						"description": "Psychologically, the proverb appeals to the discomfort of ambiguity. It recognizes that human beings are often paralyzed by indecision and suggests that psychological relief comes from definitive action—either completing or consciously changing direction."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Metaphor",
+						"description": "The entire proverb is framed through a metaphor drawn from textile work, lending a concrete image to abstract ideas of decision and progress."
+					},
+					{
+						"device": "Binary Construction",
+						"description": "The structure presents a dichotomy—'abb or warp'—which dramatizes the need for a firm choice between two distinct paths, enhancing rhetorical clarity and urgency."
+					},
+					{
+						"device": "Ellipsis",
+						"description": "By omitting direct objects (e.g., what is to be made 'abb' or 'warp'), the proverb forces the listener to mentally complete the idea, increasing its mnemonic and interpretive engagement."
+					}
+				],
+				"tags": ["decision", "action", "weaving", "urgency", "procrastination", "metaphor"]
+			}
+		}
+	],
+	"A2": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A2",
+				"proverb_text": "He is able to bury an ABBEY",
+				"literal_meaning": "The phrase suggests that a person is capable of consuming or spending so much that they could exhaust the wealth or resources of an entire abbey.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Excessive Wastefulness",
+						"description": "The proverb metaphorically describes someone of such extravagant or irresponsible habits that even the substantial resources of a religious institution would not suffice to sustain them."
+					},
+					{
+						"theme": "Destructive Consumption",
+						"description": "It emphasizes the capacity for ruinous indulgence or greed, suggesting that one's appetite for wealth or luxury could figuratively lay a monument (like an abbey) to rest."
+					},
+					{
+						"theme": "Moral Decline",
+						"description": "Implies a fall from sacred to profane—burying an abbey signifies not just expenditure, but the symbolic death of piety, restraint, or communal good in the face of personal excess."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Historical Symbolism",
+						"description": "Abbeys in early modern England were powerful and wealthy religious institutions. Referring to 'burying an abbey' evokes the imagery of destroying or depleting a bastion of spiritual and economic stability, heightening the sense of prodigality."
+					},
+					{
+						"theme": "Post-Reformation Context",
+						"description": "In post-Reformation England, abbeys were often dissolved and their wealth appropriated. This phrase may carry ironic resonance: a spendthrift who 'buries an abbey' mimics the historical suppression and squandering of sacred wealth for secular gain."
+					},
+					{
+						"theme": "Psychological Commentary",
+						"description": "The proverb critiques compulsive or performative extravagance. It portrays the spendthrift as someone driven by psychological needs—status, impulse, or insecurity—so powerful they eclipse reason and sustainability."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Hyperbole",
+						"description": "The exaggeration of someone being able to 'bury an abbey' dramatizes their wastefulness, using scale to shock and amuse."
+					},
+					{
+						"device": "Symbolism",
+						"description": "The abbey symbolizes not only material wealth but also spiritual authority and permanence, making its metaphorical 'burial' a striking image of loss and decline."
+					},
+					{
+						"device": "Irony",
+						"description": "There is biting irony in the idea that someone so careless or greedy could metaphorically perform a burial over an institution that typically offers spiritual solace and conservation."
+					}
+				],
+				"tags": ["wastefulness", "greed", "hyperbole", "irony", "wealth", "decadence"]
+			}
+		}
+	],
+	"A3": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A3",
+				"proverb_text": "To bring an ABBEY to a grange",
+				"literal_meaning": "To reduce an abbey—a wealthy and prestigious religious institution—to a grange, which is a simple farm or outbuilding, signifying dramatic decline or impoverishment.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Ruin through Mismanagement",
+						"description": "This proverb metaphorically expresses how incompetence, extravagance, or neglect can reduce something grand and sacred into something base and utilitarian."
+					},
+					{
+						"theme": "Devaluation of the Sacred",
+						"description": "It symbolizes the desecration or downgrading of something once revered, illustrating how spiritual or cultural richness can be stripped down to mere material utility."
+					},
+					{
+						"theme": "Decline of Prosperity",
+						"description": "Points to the process by which wealth, honor, or heritage can be squandered until only a bare and functional remnant remains."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Dissolution of the Monasteries",
+						"description": "The proverb reflects social and religious upheaval during the English Reformation, when monastic institutions were dissolved and their lands converted to private estates or farms—often seen as a profound loss of cultural and spiritual capital."
+					},
+					{
+						"theme": "Economic Critique",
+						"description": "Implicitly criticizes economic systems or individuals that convert community wealth and spiritual endowments into private gain, invoking anxiety over the commodification of sacred or public resources."
+					},
+					{
+						"theme": "Moral Degeneration",
+						"description": "The transformation from abbey to grange also implies a moral decline—where ideals are traded for convenience, stewardship for consumption, and legacy for short-term profit."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Symbolism",
+						"description": "The abbey symbolizes spiritual grandeur and public wealth, while the grange represents subsistence and privatization. Their juxtaposition encapsulates themes of degradation and loss."
+					},
+					{
+						"device": "Antithesis",
+						"description": "The stark contrast between 'abbey' and 'grange' heightens the sense of fall or reduction, dramatizing the proverb’s moral and economic warnings."
+					},
+					{
+						"device": "Allusion",
+						"description": "The proverb alludes directly to historical events—the dissolution and repurposing of monastic lands—thus embedding cultural memory within common speech."
+					}
+				],
+				"tags": ["decline", "mismanagement", "greed", "reformation", "loss", "symbolism"]
+			}
+		}
+	],
+	"A4": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A4",
+				"proverb_text": "He swears like an ABBOT (falconer, lord, tinker)",
+				"literal_meaning": "This proverb describes someone who swears excessively or vehemently, comparing their oaths to those stereotypically associated with certain social types—such as abbots, falconers, lords, or tinkers—known for colorful or profane language.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Hypocrisy of Authority",
+						"description": "By referencing an 'abbot'—a religious figure expected to exemplify piety—the proverb ironically exposes the moral failings of those in high or sacred positions, suggesting that status does not ensure virtue."
+					},
+					{
+						"theme": "Social Stereotyping",
+						"description": "The saying reflects and reinforces cultural stereotypes, attributing different kinds of vulgar or excessive speech to various occupational or social roles, often with satirical intent."
+					},
+					{
+						"theme": "Moral Degeneration",
+						"description": "Equating high-born or religious individuals with habitual swearing hints at broader societal decay, where the boundaries of civility, piety, and class decorum are blurred or eroded."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Clerical Satire",
+						"description": "The phrase 'swears like an abbot' plays on popular anti-clerical sentiment during and after the Reformation, when religious hypocrisy—particularly among the monastic elite—was a common target of satire and criticism."
+					},
+					{
+						"theme": "Language and Class",
+						"description": "The shifting comparisons—abbot, falconer, lord, tinker—reveal evolving attitudes toward swearing and speech across different social strata, reflecting anxieties about the collapse of decorum and the democratization of vulgarity."
+					},
+					{
+						"theme": "Performance of Masculinity",
+						"description": "Swearing is portrayed as a mark of bravado or social dominance, aligning with culturally masculine ideals of the time. Whether a lord or tinker, the figure who 'swears' is asserting control, power, or nonchalance."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Irony",
+						"description": "The ironic juxtaposition of sacred roles (abbot) with profane behavior (swearing) creates a humorous but biting critique of perceived hypocrisy and moral failure."
+					},
+					{
+						"device": "Enumeration",
+						"description": "Listing various swearing archetypes—abbot, falconer, lord, tinker—heightens the humor and rhetorical impact by covering both high and low ends of the social spectrum."
+					},
+					{
+						"device": "Colloquialism",
+						"description": "The phrase adopts the idiomatic, popular voice of folk speech, enhancing its memorability and satirical tone through common, accessible language."
+					}
+				],
+				"tags": ["swearing", "hypocrisy", "class", "satire", "language", "irony"]
+			}
+		}
+	],
+	"A5": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A5",
+				"proverb_text": "If the ABBOT OF GLASTONBURY might marry the Abbess of Shaftesbury their heir would have more land than the King of England",
+				"literal_meaning": "This proverb humorously suggests that a hypothetical union between the Abbot of Glastonbury and the Abbess of Shaftesbury would produce an heir whose combined inheritance would surpass even that of the monarch in terms of land ownership.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Excessive Ecclesiastical Power",
+						"description": "It critiques the vast wealth and landholdings of religious institutions by pointing out that their accumulated riches could rival or exceed royal authority, were it not for celibacy rules preventing inheritance."
+					},
+					{
+						"theme": "Impossibility and Absurdity",
+						"description": "The marriage between an abbot and an abbess is a deliberate absurdity, highlighting the ironic tension between monastic vows and material accumulation, and using humor to expose institutional contradictions."
+					},
+					{
+						"theme": "Unrealized Potential",
+						"description": "It metaphorically reflects on latent or unused power—suggesting that certain combinations or alliances, though forbidden, might dramatically shift power dynamics if permitted."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Monastic Wealth and Power",
+						"description": "In medieval and early modern England, Glastonbury and Shaftesbury were among the wealthiest abbeys. This proverb reflects public awareness and subtle resentment of the church's massive economic influence, rivaling the Crown itself."
+					},
+					{
+						"theme": "Cultural Satire of Celibacy",
+						"description": "The impossibility of monastic marriage is central to the humor, subtly critiquing the celibate ideal by pointing out that had such unions been allowed, dynastic power could have shifted dramatically, blending ecclesiastical and secular might."
+					},
+					{
+						"theme": "Folk Political Consciousness",
+						"description": "Attributed to 'country people,' the proverb embodies folk-level political satire, showing how rural populations processed and commented on the political and economic structures surrounding them through witty and subversive humor."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Hyperbole",
+						"description": "Exaggerates the hypothetical heir's wealth to surpass the king’s, heightening the proverb’s satirical impact and drawing attention to the church’s immense landholdings."
+					},
+					{
+						"device": "Irony",
+						"description": "The irony lies in the idea of monastics—bound by vows of celibacy—engaging in dynastic marriage, thus exposing the incongruity between spiritual ideals and worldly riches."
+					},
+					{
+						"device": "Anecdotal Humor",
+						"description": "The proverb reads like a rustic jest, its long-winded specificity enhancing its charm and its function as an indirect critique of both church and state."
+					}
+				],
+				"tags": ["monasticism", "wealth", "irony", "church", "satire", "power"]
+			}
+		}
+	],
+	"A6": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A6",
+				"proverb_text": "He is an ABERDEEN's man, taking his word again",
+				"literal_meaning": "The proverb refers to someone who goes back on their word—who makes a statement or promise and then retracts it, likened here to a man from Aberdeen, possibly drawing from a regional stereotype.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Untrustworthiness",
+						"description": "The phrase metaphorically characterizes someone as unreliable or dishonorable in their commitments, emphasizing the social consequences of not standing by one’s word."
+					},
+					{
+						"theme": "Moral Inconsistency",
+						"description": "It reflects a broader concern with ethical wavering—highlighting a lack of moral firmness or consistency, especially in contexts where one's word is expected to carry integrity."
+					},
+					{
+						"theme": "Cultural Othering",
+						"description": "The proverb implicitly marginalizes or mocks a regional identity (Aberdeen), turning it into shorthand for dishonesty, thus revealing how cultural stereotypes function in proverbial discourse."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Regional Stereotyping",
+						"description": "The use of 'Aberdeen’s man' reveals historical tendencies to stereotype people from particular places, often based on hearsay or social conflict. This reflects how proverb tradition can reinforce localized prejudice or humor at others’ expense."
+					},
+					{
+						"theme": "Verbal Integrity in Social Contracts",
+						"description": "Historically, before the dominance of written contracts, a person’s word was binding. The proverb highlights how failing to honor verbal commitments was seen as a breach of deeply held social norms and trust."
+					},
+					{
+						"theme": "Cultural Norms of Honor",
+						"description": "This saying captures the value placed on personal honor and reputation, especially in rural or close-knit communities, where public memory and oral tradition governed trustworthiness."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Synecdoche",
+						"description": "The term 'Aberdeen’s man' stands for a broader behavioral type, reducing an individual's character to a stereotyped regional identity."
+					},
+					{
+						"device": "Irony",
+						"description": "There is implicit irony in declaring someone untrustworthy by invoking a city known for its civic pride and Presbyterian probity, thereby subverting expectations."
+					},
+					{
+						"device": "Colloquialism",
+						"description": "The phrasing 'taking his word again' preserves the vernacular rhythm and tone of oral tradition, giving the proverb a rustic, direct feel."
+					}
+				],
+				"tags": ["trust", "honor", "stereotype", "speech", "irony", "reputation"]
+			}
+		}
+	],
+	"A7": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A7",
+				"proverb_text": "He that spends beyond his ABILITY may hang himself with great agility",
+				"literal_meaning": "A person who lives or spends beyond their means risks financial ruin or personal disaster, metaphorically described as leading swiftly to their own downfall.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Financial Recklessness",
+						"description": "The proverb warns against extravagance and living beyond one's means, suggesting that unchecked spending leads inevitably and quickly to destruction."
+					},
+					{
+						"theme": "Self-Destruction Through Vanity",
+						"description": "It metaphorically critiques those who spend for appearance’s sake—driven by pride or social pressure—ultimately causing their own undoing."
+					},
+					{
+						"theme": "Consequences of Overreach",
+						"description": "The saying embodies the broader idea that exceeding one’s natural or economic limits—whether financially, socially, or morally—leads to swift and often ironic downfall."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Economic Morality",
+						"description": "The proverb reflects early modern moral values surrounding thrift, discipline, and economic self-restraint, casting overspending as not just imprudent but morally dangerous."
+					},
+					{
+						"theme": "Dark Humor and Cautionary Tone",
+						"description": "The ironic twist—that one’s agility in spending becomes agility in self-destruction—reflects a darkly humorous moralism, common in proverbs meant to shock people into prudence."
+					},
+					{
+						"theme": "Social Commentary on Class Aspiration",
+						"description": "Implied in the proverb is criticism of those who aspire to appear wealthier than they are—commenting on social climbing and the performative pressure to maintain appearances at great cost."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Irony",
+						"description": "The sharp irony lies in the use of 'agility'—a positive trait—turned grimly against the subject, highlighting the rapidity with which misjudgment leads to ruin."
+					},
+					{
+						"device": "Rhyme",
+						"description": "The end rhyme of 'ability' and 'agility' enhances memorability and gives the proverb a rhythmic finality, reinforcing its didactic purpose."
+					},
+					{
+						"device": "Wordplay",
+						"description": "The contrast between 'ability' (capacity) and 'agility' (speed) plays on phonetic similarity while delivering a moral twist, making the line both witty and foreboding."
+					}
+				],
+				"tags": ["debt", "vanity", "irony", "economics", "discipline", "self-destruction"]
+			}
+		}
+	],
+	"A8": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A8",
+				"proverb_text": "ABRAHAM's bosom",
+				"literal_meaning": "Refers to the place of comfort and rest where the righteous dead are received, as depicted in Luke 16:22, where the beggar is carried by angels to 'Abraham’s bosom.'",
+				"metaphorical_meanings": [
+					{
+						"theme": "Heavenly Reward",
+						"description": "Metaphorically represents the eternal peace and divine reward granted to the virtuous after death, especially those who suffered in life."
+					},
+					{
+						"theme": "Spiritual Embrace",
+						"description": "Suggests a return to divine protection and belonging, evoking a familial or paternal closeness with Abraham as the father of faith, sheltering the faithful in death."
+					},
+					{
+						"theme": "Moral Reversal",
+						"description": "Symbolizes the eschatological reversal of fortune—those downtrodden in life, like the beggar in the parable, are exalted in the afterlife."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Biblical Origin and Judaic Imagery",
+						"description": "The phrase arises from Jewish intertestamental beliefs about the afterlife, where Abraham’s bosom signifies a righteous holding place prior to resurrection. It reflects ancient hopes of proximity to patriarchal lineage as a form of salvation."
+					},
+					{
+						"theme": "Christian Consolation for Suffering",
+						"description": "Early Christian theology adopted the phrase as a poetic expression of consolation for the poor and suffering, affirming that earthly deprivation would be met with divine comfort after death."
+					},
+					{
+						"theme": "Shakespearean Echoes",
+						"description": "In Shakespeare, 'Abraham’s bosom' is invoked to evoke peaceful death, moral closure, and ultimate justice, aligning with broader Renaissance concerns about the soul's fate and the inversion of worldly power."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Biblical Allusion",
+						"description": "Directly references Scripture, granting the phrase solemnity, cultural authority, and resonance across Christian literary traditions."
+					},
+					{
+						"device": "Euphemism",
+						"description": "Serves as a gentle and hopeful euphemism for death, shifting focus from physical decay to spiritual reunion and comfort."
+					},
+					{
+						"device": "Symbolism",
+						"description": "‘Bosom’ symbolizes warmth, security, and intimacy—transforming death into a return to loving embrace and covenantal lineage."
+					}
+				],
+				"tags": ["afterlife", "comfort", "scripture", "justice", "redemption", "death"]
+			}
+		}
+	],
+	"A9": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A9",
+				"proverb_text": "ABSENCE is a shrew",
+				"literal_meaning": "The proverb suggests that prolonged absence causes trouble or strife, likening it to a shrew—historically a term for a quarrelsome or difficult person, especially a woman.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Emotional Disturbance",
+						"description": "Absence is personified as a ‘shrew’—an embodiment of emotional discomfort and relational strain. It represents the inner turmoil, anxiety, or frustration that distance can provoke in human connections."
+					},
+					{
+						"theme": "Strain on Affection",
+						"description": "The proverb metaphorically signals how absence can erode affection or intimacy, generating suspicion, coldness, or quarrels in otherwise close relationships."
+					},
+					{
+						"theme": "Disruption of Stability",
+						"description": "It also conveys the broader idea that absence—whether physical, emotional, or communicative—undermines cohesion and invites discord, both socially and psychologically."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Gendered Language and Cultural Attitudes",
+						"description": "The use of 'shrew' draws on early modern gendered language, revealing how emotional disturbances were often feminized or caricatured. Here, absence is cast in the role of the nagging, disruptive feminine force."
+					},
+					{
+						"theme": "Medieval Psychological Understanding",
+						"description": "In late medieval literature, absence is not merely a neutral state but an active psychological agent. This proverb reflects early recognition of absence as a catalyst for anxiety, longing, and conflict—an understanding still echoed in modern relational psychology."
+					},
+					{
+						"theme": "Poetic Economy and Oral Tradition",
+						"description": "The proverb’s brevity and alliterative punch (‘absence is a shrew’) suggest origins in oral tradition, where rhythmic compactness enhanced memorability and communal transmission."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Personification",
+						"description": "Absence is anthropomorphized as a 'shrew,' granting it agency and making abstract emotional effects vivid and concrete."
+					},
+					{
+						"device": "Alliteration",
+						"description": "The repeated 's' sounds in 'shrew' and 'absence' contribute to the proverb’s oral appeal, making it rhythmically sharp and emotionally charged."
+					},
+					{
+						"device": "Metaphor",
+						"description": "The metaphor of the 'shrew' powerfully encapsulates absence as more than distance—it becomes an irritant, a source of discord and complaint."
+					}
+				],
+				"tags": ["absence", "emotion", "conflict", "personification", "relationships", "psychology"]
+			}
+		}
+	],
+	"A10": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A10",
+				"proverb_text": "ABSENCE sharpens love",
+				"literal_meaning": "The proverb states that when lovers or close companions are apart, their feelings for one another intensify in longing and appreciation.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Intensification Through Deprivation",
+						"description": "Like hunger enhancing the taste of food, emotional distance can heighten affection, making love more vivid and cherished in the lover’s imagination."
+					},
+					{
+						"theme": "Idealization of the Absent",
+						"description": "Distance allows for romantic or emotional idealization; without everyday presence to dull or complicate perception, affection sharpens into longing or admiration."
+					},
+					{
+						"theme": "Balance of Space and Closeness",
+						"description": "The proverb suggests a dynamic tension in relationships: occasional absence acts as a catalyst for emotional renewal, preventing staleness and fostering desire."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Dual Wisdom Traditions",
+						"description": "The proverb is found in both European and Middle Eastern traditions (e.g., 'Visit seldom, and you increase love'), pointing to a cross-cultural understanding of the emotional psychology of absence."
+					},
+					{
+						"theme": "Temporal Value of Affection",
+						"description": "Early modern sensibilities, as seen in literary and devotional texts, often portrayed love as intensified by temporal or physical distance, reinforcing the value of longing as a moral or spiritual exercise."
+					},
+					{
+						"theme": "Counterpoint to Presence",
+						"description": "A paired proverb—'Presence strengthens it'—reveals a holistic view: love is cultivated through both proximity and distance, suggesting that relational endurance requires rhythm, not constancy alone."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Antithesis",
+						"description": "Contrasts absence with love, a seeming paradox that lends the proverb its memorability and invites reflective engagement."
+					},
+					{
+						"device": "Metaphor",
+						"description": "Uses 'sharpening' metaphorically to convey intensification of emotion, implying absence hones or refines affection like a blade."
+					},
+					{
+						"device": "Parallelism",
+						"description": "The phrasing—'absence sharpens love'—is balanced and rhythmic, aiding its retention and aesthetic appeal in oral and literary traditions."
+					}
+				],
+				"tags": ["love", "absence", "emotion", "desire", "paradox", "relationships"]
+			}
+		}
+	],
+	"A11": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A11",
+				"proverb_text": "The ABUNDANCE of money ruins youth",
+				"literal_meaning": "The proverb warns that when young people have access to too much money, it can lead to their moral, emotional, or social ruin.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Corruption by Wealth",
+						"description": "Abundant money is portrayed as a corrupting force that tempts youth into indulgence, irresponsibility, or vice, undermining their development and discipline."
+					},
+					{
+						"theme": "Loss of Character Formation",
+						"description": "The proverb reflects the idea that struggle and restraint are necessary for forming resilience and virtue—excess wealth deprives youth of those formative experiences."
+					},
+					{
+						"theme": "Premature Autonomy",
+						"description": "It metaphorically suggests that wealth gives young people an illusion of control or maturity before they are emotionally prepared, leading to reckless choices and self-destruction."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Moral Economics",
+						"description": "This proverb draws from a long-standing moral suspicion of unearned or excessive wealth, particularly in pre-industrial societies that valued thrift and temperance as virtues, especially for the young."
+					},
+					{
+						"theme": "Historical Class Anxiety",
+						"description": "During the early modern period, rising mercantilism and shifts in wealth distribution raised concerns about how money might unmoor youth from traditional values, especially in the gentry or merchant classes."
+					},
+					{
+						"theme": "Psychological Temptation",
+						"description": "Psychologically, the proverb captures the challenge of impulse control in adolescence; with resources comes temptation, and without guidance or limits, youth may indulge in self-defeating behavior."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Causative Construction",
+						"description": "The direct structure—'abundance of money ruins youth'—presents a stark, linear cause-and-effect relationship that lends the statement aphoristic weight and finality."
+					},
+					{
+						"device": "Generalization",
+						"description": "The use of 'youth' and 'abundance' abstracts the warning into a universal moral claim, broadening its resonance across generations and cultures."
+					},
+					{
+						"device": "Irony",
+						"description": "There is a subtle irony in the idea that something typically seen as beneficial—money—can become destructive when possessed without wisdom or maturity."
+					}
+				],
+				"tags": ["wealth", "youth", "morality", "discipline", "corruption", "psychology"]
+			}
+		}
+	],
+	"A12": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A12",
+				"proverb_text": "The ABUNDANCE of things engenders disdainfulness",
+				"literal_meaning": "When something is overly plentiful or constantly available, people begin to take it for granted and grow indifferent or contemptuous toward it.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Diminished Appreciation",
+						"description": "The proverb reflects how constant availability dulls our appreciation, transforming what was once valued into something disregarded or disdained through overexposure."
+					},
+					{
+						"theme": "Psychological Satiety",
+						"description": "It suggests that human desire is driven not just by possession but by scarcity; once a need is abundantly met, the associated emotional or symbolic value often vanishes."
+					},
+					{
+						"theme": "Inverse Valuation",
+						"description": "Metaphorically speaks to the paradox that we often assign value not based on intrinsic worth, but on rarity—implying that excess itself can create emotional or moral impoverishment."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Classical and Renaissance Morality",
+						"description": "This idea echoes Stoic and Renaissance humanist views that abundance softens character and breeds moral laziness. It was a common critique of decadent societies, seen as losing virtue through material overindulgence."
+					},
+					{
+						"theme": "Consumer Psychology",
+						"description": "The proverb anticipates modern marketing and behavioral psychology, which demonstrate how scarcity drives perceived value. The more we are exposed to a thing, the more likely we are to mentally devalue it."
+					},
+					{
+						"theme": "Cultural Wisdom on Loss and Want",
+						"description": "Tied to many cross-cultural proverbs (e.g., 'You don’t know what you’ve got until it’s gone'), it reflects a universal human tendency to overlook the worth of the habitual or abundant until it is absent."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Antithesis",
+						"description": "The contrast between ‘abundance’ and ‘disdain’ dramatizes the ironic outcome: what should satisfy instead corrupts perception and gratitude."
+					},
+					{
+						"device": "Generalization",
+						"description": "By using abstract, universal terms (‘abundance,’ ‘things,’ ‘disdainfulness’), the proverb extends its moral beyond specific contexts, giving it timeless applicability."
+					},
+					{
+						"device": "Moral Aphorism",
+						"description": "The compressed, declarative structure lends the phrase the tone of a moral axiom—firm, instructive, and rhetorically absolute."
+					}
+				],
+				"tags": ["abundance", "value", "gratitude", "psychology", "scarcity", "morality"]
+			}
+		}
+	],
+	"A13": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A13",
+				"proverb_text": "Of the ABUNDANCE of the heart the mouth speaks",
+				"literal_meaning": "A person’s speech reflects what fills their heart or inner emotional and moral state—whatever is most present or dominant internally will naturally come out in words.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Inner Truth Revealed",
+						"description": "The proverb suggests that speech is a mirror of the soul—our deepest emotions, beliefs, or intentions inevitably surface in our words, often despite our attempts at concealment."
+					},
+					{
+						"theme": "Moral and Emotional Overflow",
+						"description": "It implies that when the heart is full—of anger, love, fear, or joy—this emotional surplus spills over into speech, showing how verbal expression is shaped by internal excess."
+					},
+					{
+						"theme": "Authenticity and Character",
+						"description": "Speech becomes a test of character: words reveal the moral and emotional contents of a person, suggesting that those who speak with kindness or cruelty betray their inner nature."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Biblical Moral Psychology",
+						"description": "Rooted in Matthew 12:34, the proverb reflects a biblical worldview in which the heart is the center of moral life, and speech serves as the outward expression of internal righteousness—or corruption."
+					},
+					{
+						"theme": "Renaissance Views on Language and Ethics",
+						"description": "Humanist thinkers emphasized the connection between virtue and eloquence. This proverb echoes their belief that language is not merely a tool but a moral barometer shaped by the speaker's soul."
+					},
+					{
+						"theme": "Psychological Transparency",
+						"description": "Modern psychology affirms the proverb’s claim: even unconscious thoughts and emotions leak into speech through tone, slips, or choice of words, offering insight into the speaker’s true state."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Metaphor",
+						"description": "The proverb uses metaphorical imagery of 'abundance' and 'heart' to convey the idea that the heart stores emotional or moral content that overflows through the mouth."
+					},
+					{
+						"device": "Parallelism",
+						"description": "The symmetrical structure of the proverb reinforces the relationship between inner state and outward speech, enhancing its rhetorical force and memorability."
+					},
+					{
+						"device": "Allusion",
+						"description": "As a direct biblical allusion, it draws on scriptural authority and moral gravity, imbuing the phrase with spiritual resonance and ethical significance."
+					}
+				],
+				"tags": ["speech", "heart", "morality", "authenticity", "emotion", "bible"]
+			}
+		}
+	],
+	"A14": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A14",
+				"proverb_text": "Better is one ACCIPE (take) than twice to say, Dabo tibi (I will give you)",
+				"literal_meaning": "It is better to receive one tangible gift or act ('accipē'—take) than to hear multiple promises ('dabo tibi'—I will give you) that are never fulfilled.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Value of Action over Words",
+						"description": "The proverb metaphorically emphasizes that concrete deeds carry more weight than repeated verbal assurances—true generosity is proven through action, not intention."
+					},
+					{
+						"theme": "Distrust of Empty Promises",
+						"description": "It critiques the hollowness of repeated offers or pledges, underscoring the idea that promises without follow-through lose credibility and moral worth."
+					},
+					{
+						"theme": "Pragmatic Realism",
+						"description": "The saying reflects a worldly understanding of value: what is received, even if small, is more reliable than grand intentions unacted upon—a lesson in practical wisdom."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Renaissance Humanism and Classical Echoes",
+						"description": "The Latin phrasing ('Accipe' vs. 'Dabo tibi') reflects the proverb’s roots in classical moral thought and its transmission through Renaissance humanist culture, where pragmatic ethics were valued over rhetorical flourish."
+					},
+					{
+						"theme": "Early Modern Economic Culture",
+						"description": "In a time when verbal agreements often carried legal and social weight, the proverb reflects skepticism toward overpromising—particularly in commerce, patronage, or courtship—where delivery mattered more than declaration."
+					},
+					{
+						"theme": "Psychological Need for Certainty",
+						"description": "Psychologically, the proverb appeals to the desire for security and clarity. Receiving something—even if modest—provides closure and certainty that verbal promises often lack."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Antithesis",
+						"description": "The proverb sets up a stark contrast between 'one take' and 'twice I will give,' using structural opposition to highlight the disparity between action and intention."
+					},
+					{
+						"device": "Latin Code-Switching",
+						"description": "The use of Latin phrases adds rhetorical elegance and moral gravity, invoking classical authority and appealing to learned audiences of the time."
+					},
+					{
+						"device": "Numerical Parallelism",
+						"description": "The juxtaposition of 'one' and 'twice' creates rhythmic and conceptual balance, enhancing the memorability and persuasive impact of the moral lesson."
+					}
+				],
+				"tags": ["action", "promises", "deeds", "pragmatism", "trust", "rhetoric"]
+			}
+		}
+	],
+	"A15": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A15",
+				"proverb_text": "There is no ACCORD where every man would be a lord",
+				"literal_meaning": "Harmony or agreement is impossible when everyone insists on being in charge or having authority.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Conflict from Ambition",
+						"description": "The proverb illustrates how unrestrained ambition and desire for dominance among individuals inevitably lead to discord, as leadership cannot be shared by all simultaneously."
+					},
+					{
+						"theme": "Need for Hierarchy",
+						"description": "It metaphorically suggests that social or organizational harmony requires structure, including the willingness of some to follow rather than lead."
+					},
+					{
+						"theme": "Ego and Disunity",
+						"description": "The saying reflects how inflated egos and an unwillingness to yield create chaos in communal efforts, emphasizing the dangers of unchecked pride."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Feudal and Guild Hierarchies",
+						"description": "The proverb arises from a historical context in which 'lordship' denoted both social status and governance. In feudal or civic organizations, cooperation depended on recognized hierarchies, making this a practical observation on the need for roles."
+					},
+					{
+						"theme": "Civic Republicanism and Commonweal",
+						"description": "In early modern political philosophy, this sentiment aligns with the notion of the 'commonweal'—that peace and prosperity require shared responsibility, not everyone striving to command."
+					},
+					{
+						"theme": "Group Psychology and Leadership",
+						"description": "Modern organizational theory affirms this principle: too many self-appointed leaders can fracture collaboration, suggesting that effective cooperation depends on mutual deference and defined roles."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Antithesis",
+						"description": "Contrasts ‘accord’ with ‘every man a lord,’ using structural opposition to highlight the incompatibility of universal authority and communal peace."
+					},
+					{
+						"device": "Rhyme and Rhythm",
+						"description": "The near-rhyme of ‘accord’ and ‘lord’ adds musicality and helps fix the proverb in the memory, enhancing its function as an oral teaching tool."
+					},
+					{
+						"device": "Hyperbole",
+						"description": "By positing that *every* man wants to be a lord, the proverb exaggerates to dramatize the absurdity and unfeasibility of universal dominion."
+					}
+				],
+				"tags": ["leadership", "ego", "conflict", "hierarchy", "cooperation", "authority"]
+			}
+		}
+	],
+	"A16": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A16",
+				"proverb_text": "To cast up ACCOUNTS",
+				"literal_meaning": "Literally, this refers to reviewing or totaling financial records, such as a shopkeeper tallying their ledger. However, in colloquial use, it also humorously denotes vomiting—particularly due to excessive drinking.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Consequences of Excess",
+						"description": "The phrase metaphorically equates physical expulsion (vomiting) with moral or practical reckoning, suggesting that overindulgence inevitably leads to unpleasant but necessary consequences."
+					},
+					{
+						"theme": "Moral or Bodily Reckoning",
+						"description": "The act of vomiting becomes a symbolic ‘accounting’ of one’s choices, particularly in relation to vice or intemperance—linking physical reaction to moral evaluation."
+					},
+					{
+						"theme": "Comic Realism",
+						"description": "It offers a sardonic metaphor in which the natural consequences of excess are couched in the formal language of bookkeeping, blending humor with social commentary on indulgence."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Dual Registers of Language",
+						"description": "The proverb operates on both formal and informal levels—evoking the respectable domain of accounting while humorously undercutting it with bodily imagery, revealing the elasticity of vernacular speech."
+					},
+					{
+						"theme": "Cultural Attitudes Toward Drunkenness",
+						"description": "Used as a euphemism for vomiting, especially in drunken contexts, the phrase reflects early modern discomfort with discussing bodily functions directly, as well as a broader cultural concern with moderation and propriety."
+					},
+					{
+						"theme": "Linguistic Irony and Euphemism",
+						"description": "The choice to describe a messy physical act in the sanitized language of arithmetic demonstrates a common rhetorical move in English proverbs: cloaking vulgar truths in respectable terms for wit or social palatability."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Double Entendre",
+						"description": "The phrase cleverly plays on two meanings—fiscal accounting and vomiting—highlighting the ingenuity of language to compress multiple associations into a single phrase."
+					},
+					{
+						"device": "Euphemism",
+						"description": "By replacing 'vomit' with 'cast up accounts,' the proverb employs a polite circumlocution to describe a crude event, adding humor and social tact."
+					},
+					{
+						"device": "Pun",
+						"description": "The pun on ‘accounts’ turns a mundane term from commerce into a vehicle for comic relief, exploiting the contrast between high-register vocabulary and base behavior."
+					}
+				],
+				"tags": ["euphemism", "drunkenness", "reckoning", "humor", "consequences", "languageplay"]
+			}
+		}
+	],
+	"A17": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A17",
+				"proverb_text": "To cast up ACCOUNTS",
+				"literal_meaning": "Literally, this refers to reviewing or totaling financial records, such as a shopkeeper tallying their ledger. However, in colloquial use, it also humorously denotes vomiting—particularly due to excessive drinking.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Consequences of Excess",
+						"description": "The phrase metaphorically equates physical expulsion (vomiting) with moral or practical reckoning, suggesting that overindulgence inevitably leads to unpleasant but necessary consequences."
+					},
+					{
+						"theme": "Moral or Bodily Reckoning",
+						"description": "The act of vomiting becomes a symbolic ‘accounting’ of one’s choices, particularly in relation to vice or intemperance—linking physical reaction to moral evaluation."
+					},
+					{
+						"theme": "Comic Realism",
+						"description": "It offers a sardonic metaphor in which the natural consequences of excess are couched in the formal language of bookkeeping, blending humor with social commentary on indulgence."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Dual Registers of Language",
+						"description": "The proverb operates on both formal and informal levels—evoking the respectable domain of accounting while humorously undercutting it with bodily imagery, revealing the elasticity of vernacular speech."
+					},
+					{
+						"theme": "Cultural Attitudes Toward Drunkenness",
+						"description": "Used as a euphemism for vomiting, especially in drunken contexts, the phrase reflects early modern discomfort with discussing bodily functions directly, as well as a broader cultural concern with moderation and propriety."
+					},
+					{
+						"theme": "Linguistic Irony and Euphemism",
+						"description": "The choice to describe a messy physical act in the sanitized language of arithmetic demonstrates a common rhetorical move in English proverbs: cloaking vulgar truths in respectable terms for wit or social palatability."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Double Entendre",
+						"description": "The phrase cleverly plays on two meanings—fiscal accounting and vomiting—highlighting the ingenuity of language to compress multiple associations into a single phrase."
+					},
+					{
+						"device": "Euphemism",
+						"description": "By replacing 'vomit' with 'cast up accounts,' the proverb employs a polite circumlocution to describe a crude event, adding humor and social tact."
+					},
+					{
+						"device": "Pun",
+						"description": "The pun on ‘accounts’ turns a mundane term from commerce into a vehicle for comic relief, exploiting the contrast between high-register vocabulary and base behavior."
+					}
+				],
+				"tags": ["euphemism", "drunkenness", "reckoning", "humor", "consequences", "languageplay"]
+			}
+		}
+	],
+	"A18": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A18",
+				"proverb_text": "Who must ACCOUNT for himself and others must know both",
+				"literal_meaning": "A person responsible for both their own actions and those of others must be well-informed and competent regarding both sets of responsibilities.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Burden of Responsibility",
+						"description": "The proverb underscores the weight of leadership or stewardship—those in positions of authority must possess awareness not only of their personal duties but also the conduct of those under their charge."
+					},
+					{
+						"theme": "Accountability and Knowledge",
+						"description": "It metaphorically links responsibility with knowledge: one cannot account for actions—whether personal or delegated—without understanding them, thus emphasizing diligence and attentiveness."
+					},
+					{
+						"theme": "Integrity in Oversight",
+						"description": "The saying highlights that genuine accountability requires more than oversight—it requires honest engagement with both personal and delegated obligations, discouraging ignorance as an excuse."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Moral and Administrative Ethics",
+						"description": "Historically relevant to governors, stewards, and heads of households, the proverb reflects early modern ideals of just leadership—one must be morally and practically competent to render true accounts."
+					},
+					{
+						"theme": "Proverbial Bureaucracy",
+						"description": "The phrase anticipates principles of accountability in bureaucratic or institutional structures, where superiors are held answerable for subordinates’ actions—a notion still central to modern governance and corporate management."
+					},
+					{
+						"theme": "Self-Knowledge as a Precondition",
+						"description": "It also gestures toward philosophical ideals: to lead or judge others, one must first achieve self-awareness. Personal insight is a prerequisite for fair and informed responsibility."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Parallel Structure",
+						"description": "The mirrored construction—'account for himself and others…know both'—reinforces the dual burden and tightens the logical clarity of the proverb."
+					},
+					{
+						"device": "Didactic Tone",
+						"description": "The sentence adopts a clear, instructional tone typical of proverbs designed to teach moral or managerial wisdom in a concise form."
+					},
+					{
+						"device": "Elliptical Precision",
+						"description": "The proverb compresses its meaning through minimalism—'must know both' leaves the objects implicit, relying on context to complete the thought, which engages the listener's interpretive faculties."
+					}
+				],
+				"tags": [
+					"responsibility",
+					"leadership",
+					"accountability",
+					"knowledge",
+					"ethics",
+					"oversight"
+				]
+			}
+		}
+	],
+	"A19": [
+		{
+			"model_name": "gpt-4o",
+			"analysis_date": "2025-07-10T09:14:43.965297+00:00",
+			"analysis": {
+				"proverb_id": "A19",
+				"proverb_text": "He that gains well and spends well needs no ACCOUNT BOOK",
+				"literal_meaning": "A person who earns sufficient income and exercises prudent spending doesn’t need to rely on meticulous accounting to stay financially secure.",
+				"metaphorical_meanings": [
+					{
+						"theme": "Natural Balance and Virtue",
+						"description": "The proverb metaphorically extols the virtues of instinctive moderation—when earning and spending are both guided by sound judgment, formal tools like account books become redundant."
+					},
+					{
+						"theme": "Self-Regulating Wisdom",
+						"description": "It reflects the idea that wise living doesn’t require rigid external controls; if one maintains discipline and proportion in both income and expense, order naturally follows."
+					},
+					{
+						"theme": "Harmony Between Means and Ends",
+						"description": "The phrase suggests that when acquisition and expenditure are kept in harmony, life remains manageable and free from the burden of financial anxiety or micromanagement."
+					}
+				],
+				"insights": [
+					{
+						"theme": "Pre-Industrial Financial Ethics",
+						"description": "In a time before widespread literacy or bookkeeping, this proverb affirms the sufficiency of moral economy—honest labor and prudent living—as the foundation for financial peace and respectability."
+					},
+					{
+						"theme": "Economic Self-Sufficiency",
+						"description": "It promotes a model of economic self-sufficiency grounded in common sense and personal virtue, contrasting with bureaucratic or commercial reliance on formal records."
+					},
+					{
+						"theme": "Psychological Simplicity",
+						"description": "Beyond money, the proverb speaks to psychological ease: those who live within their means enjoy a kind of mental freedom, unburdened by anxiety over detailed reckoning or loss."
+					}
+				],
+				"stylistic_features": [
+					{
+						"device": "Antithesis",
+						"description": "Contrasts ‘gaining well’ and ‘spending well’ with the absence of an ‘account book,’ emphasizing how harmony in action replaces the need for corrective tools."
+					},
+					{
+						"device": "Colloquial Aphorism",
+						"description": "The tone is accessible and commonsensical, giving the proverb the flavor of folk wisdom easily passed through generations."
+					},
+					{
+						"device": "Implied Minimalism",
+						"description": "By asserting what is *not* needed (the account book), the proverb draws attention to sufficiency and moderation as ideals, using omission to underline contentment."
+					}
+				],
+				"tags": ["economy", "moderation", "wisdom", "self-sufficiency", "prudence", "simplicity"]
+			}
+		}
+	]
+}

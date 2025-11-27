@@ -1,0 +1,30 @@
+website/node_modules
+
+# Output
+website/db.output
+.vercel
+.netlify
+.wrangler
+website/.svelte-kit
+website/build
+
+# OS
+website/.DS_Store
+website/Thumbs.db
+.DS_Store
+.Thumbs.db
+
+# Env
+website/.env
+website/.env.*
+
+# Vite
+website/vite.config.js.timestamp-*
+website/vite.config.ts.timestamp-*
+
+website/.npmrc
+website/.prettierignore
+website/.prettierrc
+
+website/build
+

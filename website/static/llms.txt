@@ -1,0 +1,76 @@
+# Guidance for AI, Large Language Models, and human developers for TilleyProverbs.com
+# Last Updated: July 2025
+
+User-agent: *
+
+# ==============================================================================
+# Primary Data Endpoints
+# ==============================================================================
+# The following resources provide the most efficient way to access the full
+# dataset of this website.
+
+# A simple text file listing all proverbs and their direct URLs.
+# This is the recommended resource for comprehensive data collection.
+full-proverb-list: https://tilleyproverbs.com/proverbs.txt
+
+# A standard XML sitemap index is also available.
+Sitemap: https://tilleyproverbs.com/sitemap.xml
+
+# ==============================================================================
+# Main Content & Navigation
+# ==============================================================================
+# The website is organized into the following key sections.
+
+# Homepage: An overview and directory of the collection.
+- /
+
+# Search: A client-side, full-text search of all proverbs.
+- /search
+
+# About: Information about the project, data sources, and methodology.
+- /about
+
+# Browse by Letter: Proverbs grouped by the first letter of their ID.
+# Example: /letters/A
+- /letters/{A-Z}/
+
+# Browse by Keyword: All keywords, sorted by frequency.
+- /keywords/
+
+# Individual Proverb Pages: The core content of the site.
+# Example: /proverbs/A123
+- /proverbs/{proverb_id}
+
+# ==============================================================================
+# Special Collections
+# ==============================================================================
+# Curated pages that group proverbs by a specific author or theme.
+# Example: /collections/shakespeare
+- /collections/{collection_slug}
+
+# Authors & Works:
+- /collections/shakespeare
+- /collections/bible
+- /collections/erasmus
+- /collections/dryden
+- /collections/milton
+- /collections/swift
+- /collections/franklin
+- /collections/don-quixote
+
+# Proverbs by Country:
+- /collections/british-proverbs
+- /collections/english-proverbs
+- /collections/french-proverbs
+- /collections/italian-proverbs
+- /collections/spanish-proverbs
+
+# ==============================================================================
+# Usage Policy & Restrictions
+# ==============================================================================
+# The textual proverb data is derived from a work in the public domain.
+# The generated AI analysis and this digital collection are intended
+# for non-commercial and research purposes.
+# Attribution to tilleyproverbs.com is requested when using this data.
+
+Allow: /

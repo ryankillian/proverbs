@@ -1,0 +1,7 @@
+# For all web crawlers
+User-agent: *
+Allow: /
+
+# Location of the primary sitemap index files
+Sitemap: https://tilleyproverbs.com/sitemap.xml
+Sitemap: https://tilleyproverbs.com/sitemap-images.xml

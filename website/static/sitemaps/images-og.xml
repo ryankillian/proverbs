@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tilleyproverbs.com/</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/tilley.webp</image:loc>
+      <image:caption>A promotional image for the page: Tilley's Proverbs Homepage</image:caption>
+      <image:title>Tilley's Proverbs Homepage</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/shakespeare</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/W61-all-his-wardrobe.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from Shakespeare</image:caption>
+      <image:title>Proverbs from Shakespeare</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/bible</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/P495-the-earthen-pot.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from The Bible</image:caption>
+      <image:title>Proverbs from The Bible</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/don-quixote</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/B360-bird-in-hand.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from Don Quixote</image:caption>
+      <image:title>Proverbs from Don Quixote</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/italian-proverbs</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/B273-a-bell-is-known.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from Italy</image:caption>
+      <image:title>Proverbs from Italy</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/french-proverbs</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/F649-the-sleepy-fox.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from France</image:caption>
+      <image:title>Proverbs from France</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/spanish-proverbs</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/B92-barnaby-bright.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from Spain</image:caption>
+      <image:title>Proverbs from Spain</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/english-proverbs</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/C152-let-the-cat-wink.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from England</image:caption>
+      <image:title>Proverbs from England</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/collections/franklin</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/G106-gifts-break-through-rocks.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs from Benjamin Franklin</image:caption>
+      <image:title>Proverbs from Benjamin Franklin</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/love</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/L478-the-first-love.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Love</image:caption>
+      <image:title>Proverbs about Love</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/cat</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/C145-a-gloved-cat.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Cats</image:caption>
+      <image:title>Proverbs about Cats</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/dog</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/D466-every-naughty-dog.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Dogs</image:caption>
+      <image:title>Proverbs about Dogs</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/money</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/M1048-his-money-burns.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Money</image:caption>
+      <image:title>Proverbs about Money</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/fools</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/F445-as-the-fool-thinks.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Fools</image:caption>
+      <image:title>Proverbs about Fools</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/man</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/M293-a-man-of-many-trades.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about a Man</image:caption>
+      <image:title>Proverbs about a Man</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/devil</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/D314-the-devils-mouth.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about the Devil</image:caption>
+      <image:title>Proverbs about the Devil</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/men</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/M571-old-men.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Men</image:caption>
+      <image:title>Proverbs about Men</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/god</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/G196-god-is-a-potter.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about God</image:caption>
+      <image:title>Proverbs about God</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/woman</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/W679-a-womans-work.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about a Woman</image:caption>
+      <image:title>Proverbs about a Woman</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tilleyproverbs.com/keywords/women</loc>
+    <image:image>
+      <image:loc>https://tilleyproverbs.com/images/og/W697-women-are-ambitious.webp</image:loc>
+      <image:caption>A promotional image for the page: Proverbs about Women</image:caption>
+      <image:title>Proverbs about Women</image:title>
+      <image:license>https://creativecommons.org/licenses/by-nc/3.0/</image:license>
+    </image:image>
+  </url>
+</urlset>
